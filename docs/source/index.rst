@@ -21,4 +21,5 @@ Contents
    usage
    api
    test.html
-   a123
+
+here is a pdf file :download:`pdf <./_static/74HC595.pdf>`
