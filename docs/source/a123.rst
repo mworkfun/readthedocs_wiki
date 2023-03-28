@@ -1,9 +1,10 @@
 a123
 ====
 
-here is a pdf file :download:`pdf <doc/source/_static/74HC595.pdf>`
-
 .. autosummary::
    :toctree: generated
 
    lumache
+   
+   
+here is a pdf file :download:`pdf <doc/source/_static/74HC595.pdf>`
